@@ -1,6 +1,6 @@
 #tafchain
 
-Install and deploy nodes
+Install and deploy nodes.
 This article describes how to install and deploy TAF Chain nodes.
 
 --Prerequisites
