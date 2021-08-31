@@ -9,7 +9,9 @@ The recommended hardware configuration for the testnet is 8 GB memory, 4 CPU cor
 
 --Resource description
 tafSoftware_0.0.1.deb TAF Chain node program installation file. Download link: https://github.com/tafchain/tafchain/releases/tag/v0.0.1/tafSoftware_0.0.1.deb
+
 genesis.json Program configuration file. Download link: https://github.com/tafchain/tafchain/releases/tag/v0.0.1/genesis.json
+
 start.sh Script file. Download link: https://github.com/tafchain/tafchain/releases/tag/v0.0.1/start.sh
 
 --Software Installation
@@ -84,5 +86,7 @@ Specify the public key of the representative node. You can add this parameter if
 --Representative Node
 To become a representative node, perform the following steps:
     1. Create an account as a node account
+    
     2. Register as a representative node
+    
     3. Delegate source include bandwidth and CPU
