@@ -85,8 +85,8 @@ Specify the public key of the representative node. You can add this parameter if
 
 --Representative Node
 To become a representative node, perform the following steps:
-    1. Create an account as a node account
-    
-    2. Register as a representative node
-    
-    3. Delegate source include bandwidth and CPU
+
+1. Create an account as a node account
+2. Register as a representative node
+3. Delegate source include bandwidth and CPU
+
