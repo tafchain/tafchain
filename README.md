@@ -84,6 +84,7 @@ Specify the public key of the representative node. You can add this parameter if
     }
 
 --Representative Node
+
 To become a representative node, perform the following steps:
 
 1. Create an account as a node account
