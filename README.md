@@ -20,11 +20,6 @@ Download the deb installation file of TAF Chain and install it, taking the Ubunt
     wget https://github.com/tafchain/tafchain/releases/tag/v0.0.1/tafSoftware_0.0.1.deb
     sudo dpkg -i tafSoftware_0.0.1.deb
     
-The default installation path of the program is "/usr/tafsys/0.0.1/bin". Add the environment variables to the system.
-
-    vi  /etc/profile
-    export PATH=$PATH:/usr/tafsys/0.0.1/bin
-    source  /etc/profile
 
 --Join the network
 Download the genesis.json file and start.sh script file to the current working directory
